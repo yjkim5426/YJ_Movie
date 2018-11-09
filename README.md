@@ -17,5 +17,6 @@ A single web page to show the most downloaded movies in this week.
  * Link: 
 
 * Requirements:
-
+ * API: https://developers.themoviedb.org/3/getting-started/introduction
+ 
 * Test:
