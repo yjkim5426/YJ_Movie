@@ -24,7 +24,7 @@ class App extends Component {
   }
 
   renderMovies = () => {
-    const posterPrePath = 'https://image.tmdb.org/t/p/w500/';
+    // const posterPrePath = 'https://image.tmdb.org/t/p/w500/';
     console.log(this.state.movies);
     // const movies = this.state.movies.map( movie =>
     //   <>
@@ -37,7 +37,7 @@ class App extends Component {
     const movies = this.state.movies.map(movie => {
       return (
         <Movie
-          posterPath={posterPrePath + movie.poster_path}
+          posterPath={movie.poster_path}
           title={movie.original_title}
           releaseDate={movie.release_date}
           overview={movie.overview}
