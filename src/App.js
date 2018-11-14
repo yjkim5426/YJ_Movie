@@ -25,7 +25,12 @@ class App extends Component {
     const posterPath = 'https://image.tmdb.org/t/p/w500/';
     console.log(this.state.movies);
     const movies = this.state.movies.map( movie =>
-      <><img src={posterPath + movie.poster_path}></img><h1>{movie.original_title}</h1></>
+      <>
+        <img src={posterPath + movie.poster_path}></img>
+        <h1>{movie.original_title}</h1>
+        <h2>{movie.release_date}</h2>
+        <p>{movie.overview}</p>
+      </>
     );
 
     return movies
