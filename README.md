@@ -9,11 +9,11 @@ A single web page to show trendy movies in this week.
 * Demo:
   
 * Design:
- * Used Balsamiq wireframing tool
- * Link: 
+  * Used Balsamiq wireframing tool
+  * Link: 
 
 * Requirements:
- * API: https://developers.themoviedb.org/3/getting-started/introduction
+  * API: https://developers.themoviedb.org/3/getting-started/introduction
  
 * Test:
 
