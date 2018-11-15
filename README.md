@@ -1,6 +1,6 @@
 # YJ_Movie
 
-###### 08-Nov-2018 project_001
+###### 08-Nov-2018
 A single web page to show trendy movies in this week.
 
 * Purpose:
