@@ -10,12 +10,12 @@ A single web page to show trendy movies in this week.
   
 * Design:
   * Used Balsamiq wireframing tool
-  * Link: 
+  * Link: https://github.com/yjkim5426/YJ_Movie/tree/master/design/version001
 
-* Requirements:
-  * API: https://developers.themoviedb.org/3/getting-started/introduction
+* API: https://developers.themoviedb.org/3/getting-started/introduction
  
 * Test:
 
-* Used techniques: 
-  * React
+* Used skills: 
+  * Library:
+    * React
