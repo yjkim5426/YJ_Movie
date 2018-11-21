@@ -1,0 +1,14 @@
+.app {
+  padding:3%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size:14px;
+}
+
+.appLoading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
