@@ -6,7 +6,7 @@ A single web page to show trendy movies in this week.
 * Purpose:
   * See top 20 trendy movies in this week.
   
-* Demo:
+* Demo: https://yjkim5426.github.io/YJ_Movie/
   
 * Design:
   * Used Balsamiq wireframing tool
