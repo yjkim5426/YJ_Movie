@@ -1,7 +1,7 @@
 # YJ_Movie
 
 ###### 08-Nov-2018
-A single web page to show trendy movies in this week.
+A single web page to show trendy movies in this week using API.
 
 * Purpose:
   * See top 20 trendy movies in this week.
