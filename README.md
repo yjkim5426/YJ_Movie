@@ -12,7 +12,8 @@ A single web page to show trendy movies in this week using API.
   * Used Balsamiq wireframing tool
   * Link: https://github.com/yjkim5426/YJ_Movie/tree/master/design/version001
 
-* API: https://developers.themoviedb.org/3/getting-started/introduction
+* API: The Movie Database API 
+  * API Docs: https://developers.themoviedb.org/3/getting-started/introduction
  
 * Test:
 
